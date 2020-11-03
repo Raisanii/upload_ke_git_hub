@@ -1,0 +1,2 @@
+ini dokumen 1
+yang di upload ke git hub
